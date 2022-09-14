@@ -10,9 +10,16 @@
   },
   "dependencies": {
     "expo": "~46.0.9",
+    "expo-crypto": "~11.0.0",
+    "expo-random": "~12.3.0",
     "expo-status-bar": "~1.4.0",
+    "fastestsmallesttextencoderdecoder": "^1.0.22",
+    "isomorphic-webcrypto": "^2.3.8",
+    "lit-js-sdk-no-wasm": "^1.1.219",
+    "node-libs-expo": "^0.0.3",
     "react": "18.0.0",
-    "react-native": "0.69.4"
+    "react-native": "0.69.5",
+    "react-native-blob-util": "^0.16.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
