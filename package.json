@@ -14,12 +14,11 @@
     "expo-random": "~12.3.0",
     "expo-status-bar": "~1.4.0",
     "fastestsmallesttextencoderdecoder": "^1.0.22",
-    "isomorphic-webcrypto": "^2.3.8",
-    "lit-js-sdk-no-wasm": "^1.1.219",
+    "lit-js-sdk-no-wasm": "^1.1.225",
+    "msrcrypto": "^1.5.8",
     "node-libs-expo": "^0.0.3",
     "react": "18.0.0",
-    "react-native": "0.69.5",
-    "react-native-blob-util": "^0.16.2"
+    "react-native": "0.69.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
